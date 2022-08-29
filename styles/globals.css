@@ -1,0 +1,13 @@
+@font-face {
+    font-family: header;
+    src: url('/public/font/CoveredByYourGrace-Regular.ttf');
+}
+
+@font-face {
+    font-family: body;
+    src: url('/public/font/RobotoCondensed-Light.ttf');
+}
+h1 {
+    font-family: header;
+    font-size: 100px;
+    margin-left: 3%;}
